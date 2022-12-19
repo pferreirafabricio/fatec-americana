@@ -25,8 +25,8 @@
 
 ## 🧠 Other projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=coetus-jd&repo=a-frame-vr&show_owner=true&hide_border=true&theme=dark)](https://github.com/coetus-jd/a-frame-vr)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pferreirafabricio&repo=animation-and-sound-piano&show_owner=true&hide_border=true&theme=dark)](https://github.com/pferreirafabricio/animation-and-sound-piano)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pferreirafabricio&repo=php-pirateCave&show_owner=true&hide_border=true&theme=dark)](https://github.com/pferreirafabricio/php-pirateCave)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pferreirafabricio&repo=animation-and-sound-piano&show_owner=true&hide_border=true&theme=dark)](https://github.com/pferreirafabricio/animation-and-sound-piano)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pferreirafabricio&repo=data-structures&show_owner=true&hide_border=true&theme=dark)](https://github.com/pferreirafabricio/data-structures)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pferreirafabricio&repo=javascript-exercises&show_owner=true&hide_border=true&theme=dark)](https://github.com/pferreirafabricio/javascript-exercises)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pferreirafabricio&repo=arduvino&show_owner=true&hide_border=true&theme=dark)](https://github.com/pferreirafabricio/arduvino)
