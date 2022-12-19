@@ -34,4 +34,3 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pferreirafabricio&repo=cpu-scheduling&show_owner=true&hide_border=true&theme=dark)](https://github.com/pferreirafabricio/cpu-scheduling)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pferreirafabricio&repo=shellScript-basics&show_owner=true&hide_border=true&theme=dark)](https://github.com/pferreirafabricio/shellScript-basics)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pferreirafabricio&repo=c-exercises&show_owner=true&hide_border=true&theme=dark)](https://github.com/pferreirafabricio/c-exercises)
-
