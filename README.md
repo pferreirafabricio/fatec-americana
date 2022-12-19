@@ -1,3 +1,5 @@
+<img src="https://github.com/pferreirafabricio/ai-big-data-quantum/blob/main/docs/Images/GitHub%20-%20Footer.png" />
+
 
 ## 🕹 Games
 
