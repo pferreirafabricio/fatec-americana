@@ -1,4 +1,4 @@
-<img src="https://github.com/pferreirafabricio/ai-big-data-quantum/blob/main/docs/Images/GitHub%20-%20Footer.png" />
+<img src="https://raw.githubusercontent.com/pferreirafabricio/ai-big-data-quantum/main/docs/Images/GitHub%20-%20Footer.png" />
 
 
 ## 🕹 Games
