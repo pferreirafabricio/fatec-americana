@@ -14,6 +14,7 @@
 
 ## 🧪 Scientific research
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pferreirafabricio&repo=ai-big-data-quantum&show_owner=true&hide_border=true&theme=dark)](https://github.com/pferreirafabricio/ai-big-data-quantum)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pferreirafabricio&repo=super-kids-article&show_owner=true&hide_border=true&theme=dark)](https://github.com/pferreirafabricio/super-kids-article)
 
 ## 👩🏻‍🏫 Disciplines
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=coetus-jd&repo=graphic-computing&show_owner=true&hide_border=true&theme=dark)](https://github.com/coetus-jd/graphic-computing)
